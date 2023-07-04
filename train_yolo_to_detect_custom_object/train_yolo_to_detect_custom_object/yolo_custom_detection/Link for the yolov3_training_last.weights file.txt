@@ -1,1 +1,1 @@
-Link for the yolov3_training_last.weights file: https://drive.google.com/file/d/12wj7dKr0SzA4oTPBy_l-j1x0h228_boT/view?usp=sharing
+https://drive.google.com/file/d/12wj7dKr0SzA4oTPBy_l-j1x0h228_boT/view?usp=sharing
